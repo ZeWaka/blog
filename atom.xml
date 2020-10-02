@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id></id>
+  <id>https://zewaka.webcam/blog</id>
   <title>Mdblog</title>
-  <updated>2020-10-01T17:07:57-07:00</updated>
+  <updated>2020-10-01T17:19:56-07:00</updated>
   <subtitle>Simple is Beautiful!</subtitle>
   <icon>/static/favicon.png</icon>
   <logo>/static/logo.png</logo>
-  <link rel="alternate" type="text/html" href="" />
-  <link rel="self" type="application/atom+xml" href="/atom.xml" />
+  <link rel="alternate" type="text/html" href="https://zewaka.webcam/blog" />
+  <link rel="self" type="application/atom+xml" href="https://zewaka.webcam/blog/atom.xml" />
   <generator uri="https://github.com/FuGangqiang/mdblog.rs">mdblog.rs</generator>
   <entry>
-    <id>/posts/hello.html</id>
+    <id>https://zewaka.webcam/blog/posts/hello.html</id>
     <title>hello</title>
     <updated>2020-10-01T17:07:48-07:00</updated>
     <published>2020-10-01T17:07:48-07:00</published>
-    <link href="/posts/hello.html"/>
+    <link href="https://zewaka.webcam/blog/posts/hello.html"/>
     <summary>hello world!...</summary>
-    <content type="html" xml:lang="en" xml:base="">
+    <content type="html" xml:lang="en" xml:base="https://zewaka.webcam/blog">
         <![CDATA[
         <p>hello world!</p>
 
         ]]>
     </content>
   </entry><entry>
-    <id>/posts/math.html</id>
+    <id>https://zewaka.webcam/blog/posts/math.html</id>
     <title>math</title>
     <updated>2020-10-01T17:07:48-07:00</updated>
     <published>2020-10-01T17:07:48-07:00</published>
-    <link href="/posts/math.html"/>
+    <link href="https://zewaka.webcam/blog/posts/math.html"/>
     <summary>This is a beautiful math test....</summary>
-    <content type="html" xml:lang="en" xml:base="">
+    <content type="html" xml:lang="en" xml:base="https://zewaka.webcam/blog">
         <![CDATA[
         <p>This is a beautiful math test.</p>
 <h2>inline style</h2>
